@@ -31,7 +31,8 @@ EN:
 [部署说明]
 
 本次实验项目在autodl算力云服务器(https://www.autodl.com)实现。
-![Alt text](image.png)
+![image](https://github.com/Lotso181/NLP_Jobs/assets/117101606/9c99ec95-2a0e-499a-ba4a-8b295fe67c40)
+
 
 [部署步骤]
 
