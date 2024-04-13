@@ -99,12 +99,15 @@ python cli_demo.py
 ```
 ssh -CNg -L 6006:127.0.0.1:6006  root@connect.westc.gpuhub.com -p 11131
 ```
-![Alt text](image-1.png)
+![image](https://github.com/Lotso181/NLP_Jobs/assets/117101606/fc75dd47-2f5f-4ee4-9f38-80d476c2f2e4)
+
 
 其中```6006:127.0.0.1:6006```表示从云服务器上的6006端口映射到本地的6006端口。```root@connect.westc.gpuhub.com -p 11131```在autodl进行获取：
 
-![Alt text](image-2.png)
+![image](https://github.com/Lotso181/NLP_Jobs/assets/117101606/ee49f548-1e53-4dd6-b669-795d0042daee)
+
 
 实验结果：
 
-![Alt text](image-3.png)
+![image](https://github.com/Lotso181/NLP_Jobs/assets/117101606/d1d8416c-8797-45cf-85fc-72fbc99b0e60)
+
