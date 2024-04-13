@@ -1,0 +1,6 @@
+{
+  "model": "chatglm2-6b",
+  "api_key": "EMPTY",
+  "base_url": "http://127.0.0.1:6006/v1",
+  "seed": 12345
+}
